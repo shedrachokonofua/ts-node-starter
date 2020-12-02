@@ -47,6 +47,6 @@
     "*.{js,ts,css,md}": "prettier --write"
   },
   "dependencies": {
-    "purify": "^3.4.0"
+    "purify-ts": "^0.16.1"
   }
 }
